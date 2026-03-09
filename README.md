@@ -1,4 +1,4 @@
-#🔢 Number System Converter
+# Number System Converter
 
 A simple and user-friendly Number System Converter Tool that allows users to input a number in one system (Binary, Decimal, Octal, or Hexadecimal) and instantly get the equivalent values in the other number systems.
 
