@@ -117,6 +117,6 @@ Make your changes
 
 Submit a pull request
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Ancy Wilson
