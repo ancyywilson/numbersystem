@@ -20,7 +20,7 @@ This project is designed to help students and beginners understand number system
 
 ✅ Beginner-friendly project
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML
 
@@ -78,7 +78,7 @@ Netlify
 
 Vercel
 
-🎯 Learning Objectives
+##🎯 Learning Objectives
 
 This project helps in understanding:
 
@@ -92,7 +92,7 @@ DOM manipulation
 
 Basic frontend development
 
-🔮 Future Improvements
+##🔮 Future Improvements
 
 Add input validation with error messages
 
@@ -104,7 +104,7 @@ Add conversion history
 
 Improve UI design
 
-# Contributing
+## Contributing
 
 Contributions are welcome!
 If you'd like to improve this project:
@@ -117,6 +117,6 @@ Make your changes
 
 Submit a pull request
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Ancy Wilson
