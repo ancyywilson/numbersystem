@@ -104,7 +104,7 @@ Add conversion history
 
 Improve UI design
 
-🤝 Contributing
+# Contributing
 
 Contributions are welcome!
 If you'd like to improve this project:
