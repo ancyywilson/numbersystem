@@ -4,7 +4,7 @@ A simple and user-friendly Number System Converter Tool that allows users to inp
 
 This project is designed to help students and beginners understand number system conversions in an easy and interactive way.
 
-🚀 Features
+## 🚀 Features
 
 ✅ Convert Binary → Decimal, Octal, Hexadecimal
 
