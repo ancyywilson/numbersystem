@@ -20,7 +20,7 @@ This project is designed to help students and beginners understand number system
 
 ✅ Beginner-friendly project
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML
 
