@@ -34,7 +34,7 @@ DOM manipulation
 
 Basic frontend development
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 Add input validation with error messages
 
